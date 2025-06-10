@@ -2,29 +2,40 @@ using UnityEngine;
 
 public class TerrainFollower : MonoBehaviour
 {
-    public Transform car;
+    public Transform target; // Drag your animated player here
     private Terrain terrain;
 
     void Start()
     {
         terrain = GetComponent<Terrain>();
+
         if (terrain == null)
         {
-            Debug.LogError("No Terrain component found on this GameObject.");
+            Debug.LogError("TerrainFollower: No Terrain component found!");
+        }
+
+        if (target == null)
+        {
+            Debug.LogError("TerrainFollower: No target assigned!");
         }
     }
 
     void LateUpdate()
     {
-        if (car == null || terrain == null) return;
+        if (terrain == null || target == null) return;
 
-        // Get terrain size
         Vector3 terrainSize = terrain.terrainData.size;
 
-        // Offset terrain position so its center matches car position
+        // Calculate position to center the terrain under the target
         float offsetX = -terrainSize.x * 0.5f;
         float offsetZ = -terrainSize.z * 0.5f;
 
-        transform.position = new Vector3(car.position.x + offsetX, transform.position.y, car.position.z + offsetZ);
+        Vector3 newPos = new Vector3(
+            target.position.x + offsetX,
+            transform.position.y, // Keep terrain height constant
+            target.position.z + offsetZ
+        );
+
+        transform.position = newPos;
     }
 }
