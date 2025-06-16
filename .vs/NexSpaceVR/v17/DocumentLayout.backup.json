@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Repositories\\NexSpaceVR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\scenechangemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechangemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\terrainfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SceneChange.cs",
-              "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\SceneChange.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChange.cs",
-              "ToolTip": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\SceneChange.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SceneChange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Title": "SceneChangeMale.cs",
+              "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\SceneChangeMale.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChangeMale.cs",
+              "ToolTip": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\SceneChangeMale.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChangeMale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:01:46.585Z",
+              "WhenOpened": "2025-06-16T18:48:16.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UImanager.cs",
+              "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\UImanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UImanager.cs",
+              "ToolTip": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\UImanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UImanager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:46:33.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TerrainFollower.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\TerrainFollower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TerrainFollower.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\TerrainFollower.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T09:47:50.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T09:47:50.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EndlessRoadManager.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\EndlessRoadManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EndlessRoadManager.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OVRConfigurationTaskUpdaterSummary.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Library\\PackageCache\\com.meta.xr.sdk.core@5c4cefc6b3e8\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@5c4cefc6b3e8\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@5c4cefc6b3e8\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAjwN0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:42:20.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T11:42:20.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CameraManager.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\CameraManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraManager.cs",
