@@ -5,7 +5,6 @@ public class EndlessRoadManager : MonoBehaviour
     public GameObject[] roadSegments; // Holds the three road segments
     public float roadLength = 50f; // Length of each road segment
     public Transform car; // Reference to the car
-    private float roadY = 30f; // Fixed Y position for road segments
 
     void Update()
     {
@@ -30,8 +29,7 @@ public class EndlessRoadManager : MonoBehaviour
         GameObject oldSegment = roadSegments[0];
         float newZ = roadSegments[2].transform.position.z + roadLength;
 
-        // Always force Y to 30f
-        oldSegment.transform.position = new Vector3(0, roadY, newZ);
+        oldSegment.transform.position = new Vector3(0, 0, newZ);
 
         // Shift segments
         roadSegments[0] = roadSegments[1];
@@ -43,7 +41,9 @@ public class EndlessRoadManager : MonoBehaviour
         {
             Destroy(child.gameObject);
         }
+        FindFirstObjectByType<BuildingSpawner>().SpawnBuildings();
 
-        Debug.Log("Road moved forward!");
+        Debug.Log("Road moved forward, buildings spawned!");
     }
+
 }

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MouseLook : MonoBehaviour
 {
-    public Transform cameraTransform; 
+    public Transform cameraTransform; // Assign XR Camera (usually under XR Rig)
     public float mouseSensitivity = 100f;
 
     private float xRotation = 0f;
