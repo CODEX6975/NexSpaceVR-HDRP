@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Repositories\\NexSpaceVR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\endlessroadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endlessroadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\buildingspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\buildingspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\scenechangefemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\scenechangefemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechangefemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|d:\\repositories\\nexspacevr\\assets\\scripts\\scenechangemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\scenechangemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechangemale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\terrainfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terrainfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|D:\\Repositories\\NexSpaceVR\\assets\\scripts\\endlessroadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75701607-AF8C-BFFC-B092-2DBE772BC3E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endlessroadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repositories\\NexSpaceVR\\Library\\PackageCache\\com.meta.xr.sdk.core@5c4cefc6b3e8\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BuildingSpawner.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\BuildingSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingSpawner.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BuildingSpawner.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA9wCUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:55:02.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:55:02.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SceneChangeFemale.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\SceneChangeFemale.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChangeFemale.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SceneChangeFemale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:49:41.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:49:41.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SceneChangeMale.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\SceneChangeMale.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChangeMale.cs",
@@ -80,25 +78,24 @@
               "RelativeToolTip": "Assets\\Scripts\\SceneChangeMale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:48:16.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:48:16.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UImanager.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\UImanager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UImanager.cs",
               "ToolTip": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\UImanager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UImanager.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswD8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwD4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T12:46:33.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TerrainFollower.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\TerrainFollower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TerrainFollower.cs",
@@ -110,15 +107,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "EndlessRoadManager.cs",
               "DocumentMoniker": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\EndlessRoadManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EndlessRoadManager.cs",
               "ToolTip": "D:\\Repositories\\NexSpaceVR\\Assets\\Scripts\\EndlessRoadManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\EndlessRoadManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wC8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T09:26:00.505Z"
+              "WhenOpened": "2025-06-03T09:26:00.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,8 +128,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@5c4cefc6b3e8\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAjwN0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:42:20.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T11:42:20.398Z"
             },
             {
               "$type": "Document",
